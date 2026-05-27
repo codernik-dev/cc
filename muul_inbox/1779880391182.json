@@ -1,0 +1,4 @@
+{
+  "type": "EXECUTE_REMOTE_QUERY",
+  "value": "{\"credentialId\":2,\"query\":\"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='billing_sync_log' AND xtype='U')\\n                CREATE TABLE [billing_sync_log] (id INT IDENTITY(1,1) PRIMARY KEY, syncType NVARCHAR(50), tableName NVARCHAR(100), recordCount INT, status NVARCHAR(20), error NVARCHAR(MAX), syncedAt DATETIME DEFAULT GETDATE());\"}"
+}
