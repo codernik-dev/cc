@@ -1,0 +1,4 @@
+{
+  "type": "EXECUTE_REMOTE_QUERY",
+  "value": "{\"credentialId\":2,\"query\":\"SELECT @@VERSION AS v\"}"
+}
