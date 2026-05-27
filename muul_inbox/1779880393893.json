@@ -1,0 +1,4 @@
+{
+  "type": "EXECUTE_REMOTE_QUERY",
+  "value": "{\"credentialId\":2,\"query\":\"MERGE [billing_categories] AS target\\n                USING (SELECT N'cat-burgers' AS row_key) AS source ON target.row_key = source.row_key\\n                WHEN MATCHED THEN UPDATE SET data=N'{\\\"id\\\":\\\"cat-burgers\\\",\\\"name\\\":\\\"Burgers\\\",\\\"type\\\":\\\"visible\\\"}', syncedAt=GETDATE()\\n                WHEN NOT MATCHED THEN INSERT (row_key, data) VALUES (N'cat-burgers', N'{\\\"id\\\":\\\"cat-burgers\\\",\\\"name\\\":\\\"Burgers\\\",\\\"type\\\":\\\"visible\\\"}');\"}"
+}
