@@ -1,0 +1,12 @@
+{
+  "git": {
+    "owner": "codernik-dev",
+    "repo": "cc",
+    "branch": "main"
+  },
+  "backupKind": "medlab-os-raw-json",
+  "backupVersion": 1,
+  "zipBase64": "ewogICJpbmRleEtpbmQiOiAibWVkbGFiLW9zLXRlc3QtcHJvY2Vzcy1pbmRleCIsCiAgInVwZGF0ZWRBdCI6ICIyMDI2LTA2LTA2VDA1OjA1OjA2LjUxMloiLAogICJlbnRyaWVzIjogWwogICAgewogICAgICAiYXBwb2ludG1lbnRJZCI6IDUsCiAgICAgICJwYXRoIjogIm1lZGxhYi1vcy90ZXN0LXByb2Nlc3MvYXBwdC01Lmpzb24iLAogICAgICAicGF0aWVudE5hbWUiOiAibmlrIiwKICAgICAgInN0YXJ0IjogIjIwMjYtMDYtMDZUMDU6MDY6MDAuMDAwWiIsCiAgICAgICJjb2xsZWN0ZWRBdCI6ICIyMDI2LTA2LTA2VDA1OjA1OjA1LjI3NloiLAogICAgICAic3RhZ2UiOiAiaW4tdHJhbnNpdCIKICAgIH0KICBdCn0=",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-06-06T05:05:06.514Z"
+}
