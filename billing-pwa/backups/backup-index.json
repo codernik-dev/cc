@@ -6,9 +6,9 @@
   },
   "backups": [
     {
-      "name": "billing-pwa-backup-Till1-2026-06-19.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-19.zip",
-      "createdAt": "2026-06-19T06:50:32.645Z"
+      "name": "billing-pwa-backup-2026-06-19.zip",
+      "filePath": "billing-pwa/backups/data/billing-pwa-backup-2026-06-19.zip",
+      "createdAt": "2026-06-19T07:46:11.426Z"
     },
     {
       "name": "billing-pwa-backup-Till1-2026-06-19.zip",
@@ -16,83 +16,13 @@
       "createdAt": "2026-06-19T06:50:32.645Z"
     },
     {
-      "name": "billing-pwa-backup-Till1-2026-06-18.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-18.zip",
-      "createdAt": "2026-06-18T10:00:21.790Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-18.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-18.zip",
-      "createdAt": "2026-06-18T10:00:21.790Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-16.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-16.zip",
-      "createdAt": "2026-06-16T05:00:50.730Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-16.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-16.zip",
-      "createdAt": "2026-06-16T05:00:50.730Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-12.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-12.zip",
-      "createdAt": "2026-06-12T12:22:56.379Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-12.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-12.zip",
-      "createdAt": "2026-06-12T12:22:56.379Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-10.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-10.zip",
-      "createdAt": "2026-06-10T04:54:05.607Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-10.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-10.zip",
-      "createdAt": "2026-06-10T04:54:05.607Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-04.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-04.zip",
-      "createdAt": "2026-06-04T06:55:00.857Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-04.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-04.zip",
-      "createdAt": "2026-06-04T06:55:00.857Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-03.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-03.zip",
-      "createdAt": "2026-06-03T11:21:58.976Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-03.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-03.zip",
-      "createdAt": "2026-06-03T11:21:58.976Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-01.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-01.zip",
-      "createdAt": "2026-06-01T09:23:21.234Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-06-01.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-01.zip",
-      "createdAt": "2026-06-01T09:23:21.234Z"
-    },
-    {
-      "name": "billing-pwa-backup-Till1-2026-05-25.zip",
-      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-05-25.zip",
-      "createdAt": "2026-05-25T05:27:51.870Z"
+      "name": "billing-pwa-backup-Till1-2026-06-19.zip",
+      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-19.zip",
+      "createdAt": "2026-06-19T06:50:32.645Z"
     }
   ],
   "name": "backup-index",
-  "createdAt": "2026-06-19T06:50:34.364Z",
+  "createdAt": "2026-06-19T07:46:13.308Z",
   "_kind": "browser-payload",
-  "_savedAt": "2026-06-19T06:50:34.368Z"
+  "_savedAt": "2026-06-19T07:46:13.309Z"
 }
