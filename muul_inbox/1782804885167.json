@@ -1,0 +1,23 @@
+{
+  "type": "GIT",
+  "payload": {
+    "git": {
+      "filePath": "billing-pwa/backups/backup-index.json",
+      "commitMessage": "chore(billing-pwa): update backup index"
+    },
+    "backups": [
+      {
+        "name": "billing-pwa-backup-Till1-2026-06-30.zip",
+        "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-30.zip",
+        "createdAt": "2026-06-30T07:33:14.242Z"
+      },
+      {
+        "name": "billing-pwa-backup-Till1-2026-06-30.zip",
+        "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-06-30.zip",
+        "createdAt": "2026-06-30T07:33:14.242Z"
+      }
+    ],
+    "name": "backup-index",
+    "createdAt": "2026-06-30T07:34:39.191Z"
+  }
+}
