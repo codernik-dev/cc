@@ -9,7 +9,7 @@
   "repository": "cc",
   "branch": "main",
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-21T06:19:57.714Z",
+  "updatedAt": "2026-07-21T06:32:08.183Z",
   "backups": [
     {
       "name": "cc-backup-2026-07-21_11-42-52.zip",
@@ -89,8 +89,13 @@
       "name": "cc-backup-2026-07-21_11-49-50.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_11-49-50.json",
       "createdAt": "2026-07-21T06:19:50.602Z"
+    },
+    {
+      "name": "cc-backup-2026-07-21_12-02-01.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_12-02-01.json",
+      "createdAt": "2026-07-21T06:32:01.273Z"
     }
   ],
   "_kind": "browser-payload",
-  "_savedAt": "2026-07-21T06:19:57.725Z"
+  "_savedAt": "2026-07-21T06:32:08.194Z"
 }
