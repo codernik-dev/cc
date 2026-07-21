@@ -1,23 +1,31 @@
 {
-  "git": {
-    "owner": "codernik-dev",
-    "repo": "cc",
-    "branch": "main"
-  },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-10T05:57:32.971Z",
+  "updatedAt": "2026-07-21T05:40:55.982Z",
   "backups": [
     {
-      "name": "cognitive-canvas-full-backup-2026-03-12.zip",
-      "path": "cognitive-canvas/backups/data/cognitive-canvas-full-backup-2026-03-12.json",
-      "createdAt": "2026-03-12T07:01:00.648Z"
+      "name": "cc-backup-2026-07-21_11-10-55.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-21_11-10-55.zip",
+      "createdAt": "2026-07-21T05:40:55.982Z",
+      "format": "release",
+      "assetId": 484297776,
+      "totalSize": 1574357
     },
     {
-      "name": "cc-backup-2026-07-09_09-55-12.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-09_09-55-12/manifest.json",
-      "createdAt": "2026-07-09T04:25:12.363Z",
+      "name": "cc-backup-2026-07-10_11-27-24.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-10_11-27-24.json",
+      "createdAt": "2026-07-10T05:57:24.817Z"
+    },
+    {
+      "name": "cc-backup-2026-07-10_11-25-49.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-10_11-25-49.json",
+      "createdAt": "2026-07-10T05:55:49.297Z"
+    },
+    {
+      "name": "cc-backup-2026-07-09_10-03-59.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-09_10-03-59/manifest.json",
+      "createdAt": "2026-07-09T04:33:59.054Z",
       "format": "chunked",
-      "totalSize": 147960591,
+      "totalSize": 147960593,
       "totalChunks": 10
     },
     {
@@ -29,24 +37,17 @@
       "totalChunks": 10
     },
     {
-      "name": "cc-backup-2026-07-09_10-03-59.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-09_10-03-59/manifest.json",
-      "createdAt": "2026-07-09T04:33:59.054Z",
+      "name": "cc-backup-2026-07-09_09-55-12.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-09_09-55-12/manifest.json",
+      "createdAt": "2026-07-09T04:25:12.363Z",
       "format": "chunked",
-      "totalSize": 147960593,
+      "totalSize": 147960591,
       "totalChunks": 10
     },
     {
-      "name": "cc-backup-2026-07-10_11-25-49.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-10_11-25-49.json",
-      "createdAt": "2026-07-10T05:55:49.297Z"
-    },
-    {
-      "name": "cc-backup-2026-07-10_11-27-24.zip",
-      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-10_11-27-24.json",
-      "createdAt": "2026-07-10T05:57:24.817Z"
+      "name": "cognitive-canvas-full-backup-2026-03-12.zip",
+      "path": "cognitive-canvas/backups/data/cognitive-canvas-full-backup-2026-03-12.json",
+      "createdAt": "2026-03-12T07:01:00.648Z"
     }
-  ],
-  "_kind": "browser-payload",
-  "_savedAt": "2026-07-10T05:57:32.986Z"
+  ]
 }
