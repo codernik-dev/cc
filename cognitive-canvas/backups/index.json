@@ -1,36 +1,48 @@
 {
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-23T06:42:14.796Z",
+  "updatedAt": "2026-07-23T06:43:06.827Z",
   "backups": [
     {
-      "name": "cc-backup-2026-07-23_12-12-08.zip",
+      "name": "cc-backup-2026-07-23_12-13-03.zip",
+      "assetName": "cc-backup-2026-07-23_12-13-03.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-23_12-13-03.zip",
+      "createdAt": "2026-07-23T06:43:06.827Z",
+      "format": "release",
       "storage": "release",
-      "assetId": 486865934,
-      "assetName": "cc-backup-2026-07-23_12-12-08.zip",
       "releaseTag": "cognitive-canvas-backups",
+      "assetId": 486867061,
+      "totalSize": 28864612,
+      "size": 28864612
+    },
+    {
+      "name": "cc-backup-2026-07-23_12-12-08.zip",
+      "assetName": "cc-backup-2026-07-23_12-12-08.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-23_12-12-08.zip",
-      "size": 16719741,
+      "createdAt": "2026-07-23T06:42:09Z",
+      "format": "release",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 486865934,
       "totalSize": 16719741,
-      "createdAt": "2026-07-23T06:42:08.817Z",
-      "format": "single"
+      "size": 16719741
     },
     {
       "name": "cc-backup-2026-07-23_12-08-36.zip",
-      "storage": "release",
-      "assetId": 486863210,
       "assetName": "cc-backup-2026-07-23_12-08-36.zip",
-      "releaseTag": "cognitive-canvas-backups",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-23_12-08-36.zip",
-      "size": 16719739,
+      "createdAt": "2026-07-23T06:38:38Z",
+      "format": "release",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 486863210,
       "totalSize": 16719739,
-      "createdAt": "2026-07-23T06:38:37.321Z",
-      "format": "single"
+      "size": 16719739
     },
     {
       "name": "cc-backup-2026-07-23_12-00-14.zip",
       "assetName": "cc-backup-2026-07-23_12-00-14.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-23_12-00-14.zip",
-      "createdAt": "2026-07-23T06:30:15.868Z",
+      "createdAt": "2026-07-23T06:30:19Z",
       "format": "release",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
