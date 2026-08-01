@@ -6,6 +6,16 @@
   },
   "backups": [
     {
+      "name": "billing-pwa-backup-Till1-2026-08-01.zip",
+      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-08-01.zip",
+      "createdAt": "2026-08-01T11:44:43.574Z"
+    },
+    {
+      "name": "billing-pwa-backup-Till1-2026-08-01.zip",
+      "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-08-01.zip",
+      "createdAt": "2026-08-01T11:44:43.574Z"
+    },
+    {
       "name": "billing-pwa-backup-Till1-2026-07-31.zip",
       "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-07-31.zip",
       "createdAt": "2026-07-31T09:10:25.138Z"
@@ -62,7 +72,7 @@
     }
   ],
   "name": "backup-index",
-  "createdAt": "2026-07-31T09:10:31.123Z",
+  "createdAt": "2026-08-01T11:44:52.595Z",
   "_kind": "browser-payload",
-  "_savedAt": "2026-07-31T09:10:31.124Z"
+  "_savedAt": "2026-08-01T11:44:52.601Z"
 }
