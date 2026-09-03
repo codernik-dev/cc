@@ -1,126 +1,138 @@
 {
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-08-26T11:55:31.764Z",
+  "updatedAt": "2026-09-03T10:05:08.698Z",
   "backups": [
     {
-      "name": "cc-backup-2026-08-26_17-24-37.zip",
+      "name": "cc-backup-2026-09-03_15-35-05.zip",
+      "assetName": "cc-backup-2026-09-03_15-35-05.zip",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-09-03_15-35-05.zip",
+      "createdAt": "2026-09-03T10:05:10Z",
+      "format": "single",
       "storage": "release",
-      "assetId": 530739875,
-      "assetName": "cc-backup-2026-08-26_17-24-37.zip",
       "releaseTag": "cognitive-canvas-backups",
+      "assetId": 542577514,
+      "size": 93781334,
+      "totalSize": 93781334
+    },
+    {
+      "name": "cc-backup-2026-08-26_17-24-37.zip",
+      "assetName": "cc-backup-2026-08-26_17-24-37.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-08-26_17-24-37.zip",
+      "createdAt": "2026-08-26T11:54:53Z",
+      "format": "single",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 530739875,
       "size": 358095416,
-      "totalSize": 358095416,
-      "createdAt": "2026-08-26T11:54:51.299Z",
-      "format": "single"
+      "totalSize": 358095416
     },
     {
       "name": "cc-backup-2026-08-24_14-22-31.zip",
-      "storage": "release",
-      "assetId": 527339025,
       "assetName": "cc-backup-2026-08-24_14-22-31.zip",
-      "releaseTag": "cognitive-canvas-backups",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-08-24_14-22-31.zip",
+      "createdAt": "2026-08-24T08:52:34Z",
+      "format": "single",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 527339025,
       "size": 21117027,
-      "totalSize": 21117027,
-      "createdAt": "2026-08-24T08:52:32.900Z",
-      "format": "single"
+      "totalSize": 21117027
     },
     {
       "name": "cc-backup-2026-08-11_10-50-25.zip",
-      "storage": "release",
-      "assetId": 509706209,
       "assetName": "cc-backup-2026-08-11_10-50-25.zip",
-      "releaseTag": "cognitive-canvas-backups",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-08-11_10-50-25.zip",
+      "createdAt": "2026-08-11T05:20:27Z",
+      "format": "single",
+      "storage": "release",
+      "releaseTag": "cognitive-canvas-backups",
+      "assetId": 509706209,
       "size": 1574403,
-      "totalSize": 1574403,
-      "createdAt": "2026-08-11T05:20:25.753Z",
-      "format": "single"
+      "totalSize": 1574403
     },
     {
       "name": "cc-backup-2026-07-24_19-05-29.zip",
       "assetName": "cc-backup-2026-07-24_19-05-29.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_19-05-29.zip",
-      "createdAt": "2026-07-24T13:35:38.008Z",
-      "format": "release",
+      "createdAt": "2026-07-24T13:35:39Z",
+      "format": "single",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
       "assetId": 488443400,
-      "totalSize": 62231056,
-      "size": 62231056
+      "size": 62231056,
+      "totalSize": 62231056
     },
     {
       "name": "cc-backup-2026-07-24_19-04-27.zip",
       "assetName": "cc-backup-2026-07-24_19-04-27.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_19-04-27.zip",
       "createdAt": "2026-07-24T13:34:28Z",
-      "format": "release",
+      "format": "single",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
       "assetId": 488442485,
-      "totalSize": 1574335,
-      "size": 1574335
+      "size": 1574335,
+      "totalSize": 1574335
     },
     {
       "name": "cc-backup-2026-07-24_18-33-25.zip",
       "assetName": "cc-backup-2026-07-24_18-33-25.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-33-25.zip",
       "createdAt": "2026-07-24T13:03:32Z",
-      "format": "release",
+      "format": "single",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
       "assetId": 488417271,
-      "totalSize": 4680961,
-      "size": 4680961
+      "size": 4680961,
+      "totalSize": 4680961
     },
     {
       "name": "cc-backup-2026-07-24_18-32-18.zip",
       "assetName": "cc-backup-2026-07-24_18-32-18.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-32-18.zip",
       "createdAt": "2026-07-24T13:02:22Z",
-      "format": "release",
+      "format": "single",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
       "assetId": 488416521,
-      "totalSize": 23351093,
-      "size": 23351093
+      "size": 23351093,
+      "totalSize": 23351093
     },
     {
       "name": "cc-backup-2026-07-24_18-11-03.zip",
       "assetName": "cc-backup-2026-07-24_18-11-03.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-11-03.zip",
       "createdAt": "2026-07-24T12:41:06Z",
-      "format": "release",
+      "format": "single",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
       "assetId": 488398560,
-      "totalSize": 13302265,
-      "size": 13302265
+      "size": 13302265,
+      "totalSize": 13302265
     },
     {
       "name": "cc-backup-2026-07-24_18-07-51.zip",
       "assetName": "cc-backup-2026-07-24_18-07-51.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-07-51.zip",
       "createdAt": "2026-07-24T12:38:09Z",
-      "format": "release",
+      "format": "single",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
       "assetId": 488396144,
-      "totalSize": 94853310,
-      "size": 94853310
+      "size": 94853310,
+      "totalSize": 94853310
     },
     {
       "name": "cc-backup-2026-07-24_18-06-17.zip",
       "assetName": "cc-backup-2026-07-24_18-06-17.zip",
       "path": "cognitive-canvas/backups/data/cc-backup-2026-07-24_18-06-17.zip",
       "createdAt": "2026-07-24T12:36:18Z",
-      "format": "release",
+      "format": "single",
       "storage": "release",
       "releaseTag": "cognitive-canvas-backups",
       "assetId": 488394866,
-      "totalSize": 1574345,
-      "size": 1574345
+      "size": 1574345,
+      "totalSize": 1574345
     }
   ]
 }
